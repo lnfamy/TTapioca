@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b1888bf881d54fb48956a73343a84d56
+timeCreated: 1509637151
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Invisible: {instanceID: 0}
+  - grass: {fileID: 2800000, guid: e49e6bb590fdb414fb7b14f6216f76bf, type: 3}
+  - dirt: {fileID: 2800000, guid: 4228fdd30abc12a46a6224751de04969, type: 3}
+  - gravelstone: {fileID: 2800000, guid: de787bb080d413949a4ac839bdf1e399, type: 3}
+  - ice: {fileID: 2800000, guid: 73c2fa74ab7c05443aacf68148d56d41, type: 3}
+  - wood: {fileID: 2800000, guid: 973b1efe21f782047b2490c3f78bec54, type: 3}
+  - redwood: {fileID: 2800000, guid: 41ddb735d3c5213458001f8e0ea0f703, type: 3}
+  - cottontan: {fileID: 2800000, guid: b4d7116c833e93e44b26bc7ecc0a9bfc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
